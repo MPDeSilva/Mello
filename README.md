@@ -188,10 +188,5 @@ The application uses a relational database with three main tables:
 
 This project is open source and available under the MIT License.
 
-## 🤝 Connect
-
-Built by [Your Name] - [Your LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [Email](mailto:your@email.com)
-
----
 
 ⭐ If you found this project interesting, please consider giving it a star!
