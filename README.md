@@ -131,7 +131,7 @@ mello/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mello.git
+git clone https://github.com/MPDeSilva/Mello.git
 cd mello
 ```
 
